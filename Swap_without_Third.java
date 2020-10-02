@@ -18,3 +18,6 @@ public class Swap_without_Third {
 	}
 
 }
+//Try This
+System.out.println("a:"+b);
+System.out.println("b:"+a);
